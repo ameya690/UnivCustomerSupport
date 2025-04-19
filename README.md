@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Koe Logo" width="300"/>
+<img src="koe_logo.png" alt="Koe Logo" width="300"/>
 
 # Koe (声) – Voice-Driven Universal Web Support
 
