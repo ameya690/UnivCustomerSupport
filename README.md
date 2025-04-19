@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="koe_logo.png" alt="Koe Logo" width="200"/>
+  <img src="logo.png" alt="Koe Logo" width="200"/>
 </p>
 
 # Koe (声) – Voice-Driven Universal Web Support
